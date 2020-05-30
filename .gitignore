@@ -1,6 +1,8 @@
 bin/**
 build/**
 testdata/**
+data/**
+data_inactive/**
 **.swp
 **.d
 **.o
